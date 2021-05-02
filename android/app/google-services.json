@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74974620741",
+    "project_id": "hairdresser-a63e2",
+    "storage_bucket": "hairdresser-a63e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74974620741:android:6a4a4e01564ebf1ca0472c",
+        "android_client_info": {
+          "package_name": "com.example.hairdresser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74974620741-9gempn2rhkdf05c1qji3d77bppojruln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG262GujZ6xzo3I5u7iFugDNUpl9p4fo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74974620741-9gempn2rhkdf05c1qji3d77bppojruln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
